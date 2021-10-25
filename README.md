@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python (numpy, pandas, seaborn, scikit-learn)
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects focused on the entertainment industry.
-- 📫 How to reach me Natalie.Monger.2022@marshall.usc.edu
 
 <!---
 natalierosemonger/natalierosemonger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
